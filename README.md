@@ -1,0 +1,3 @@
+- Um modelo de domino, onde os objetivos que representam oas entidades, contêm pouca ou nenhuma lógica de negócio (validação, cálculos, regras de negócios, etc).
+- É um modelo sem comportamento, onde temos diversas propriedades com get e set publicos definidas sem lógica alguma, e onde o cliente do dominio tem controle sobre como instanciar e modificar o dominio.
+- obs: Perde tudo sobre POO. 
