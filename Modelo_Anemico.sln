@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo_Anemico", "Modelo_Anemico.csproj", "{C6654ACC-EB81-4856-AD13-9CD86914AC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6654ACC-EB81-4856-AD13-9CD86914AC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6654ACC-EB81-4856-AD13-9CD86914AC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6654ACC-EB81-4856-AD13-9CD86914AC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6654ACC-EB81-4856-AD13-9CD86914AC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D49707-2952-459D-946D-57E8C7ECB671}
+	EndGlobalSection
+EndGlobal
